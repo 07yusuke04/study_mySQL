@@ -1,0 +1,6 @@
+ID,Name,CountryCode,District,Population,Code,Name,Continent,Region,SurfaceArea,IndepYear,Population,LifeExpectancy,GNP,GNPOld,LocalName,GovernmentForm,HeadOfState,Capital,Code2,CountryCode,Language,IsOfficial,Percentage
+1,Kabul,AFG,Kabol,1780000,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00,1919,22720000,45.9,5976.00,NULL,Afganistan/Afqanestan,"Islamic Emirate","Mohammad Omar",1,AF,AFG,Balochi,F,0.9
+1,Kabul,AFG,Kabol,1780000,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00,1919,22720000,45.9,5976.00,NULL,Afganistan/Afqanestan,"Islamic Emirate","Mohammad Omar",1,AF,AFG,Dari,T,32.1
+1,Kabul,AFG,Kabol,1780000,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00,1919,22720000,45.9,5976.00,NULL,Afganistan/Afqanestan,"Islamic Emirate","Mohammad Omar",1,AF,AFG,Pashto,T,52.4
+1,Kabul,AFG,Kabol,1780000,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00,1919,22720000,45.9,5976.00,NULL,Afganistan/Afqanestan,"Islamic Emirate","Mohammad Omar",1,AF,AFG,Turkmenian,F,1.9
+1,Kabul,AFG,Kabol,1780000,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00,1919,22720000,45.9,5976.00,NULL,Afganistan/Afqanestan,"Islamic Emirate","Mohammad Omar",1,AF,AFG,Uzbek,F,8.8
